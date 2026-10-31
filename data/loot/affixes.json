@@ -1,0 +1,46 @@
+{
+  "_doc": "Inscriptions (AffixRule) : ce qui peut sortir sur quelle catégorie. Valeurs en fraction (0.10 = +10 %), plage pour une rareté Rare, multipliée par rarity_scale.",
+  "rarity_scale": [0.0, 0.7, 1.0, 1.2, 1.45, 1.7],
+  "stats": {
+    "dmg":       { "label": "Dégâts de l'arme",              "scope": "local" },
+    "mag":       { "label": "Taille du chargeur",            "scope": "local" },
+    "reload":    { "label": "Vitesse de rechargement",       "scope": "local" },
+    "rate":      { "label": "Cadence de tir",                "scope": "local" },
+    "abil_dmg":  { "label": "Dégâts de la capacité",         "scope": "local" },
+    "abil_cd":   { "label": "Recharge de la capacité",       "scope": "local" },
+    "g_weapon":  { "label": "Dégâts des armes",              "scope": "global" },
+    "g_ability": { "label": "Dégâts des capacités et combos","scope": "global" },
+    "shield":    { "label": "Bouclier",                      "scope": "global" },
+    "health":    { "label": "Vie",                           "scope": "global" },
+    "regen":     { "label": "Régénération du bouclier",      "scope": "global" },
+    "melee":     { "label": "Dégâts de mêlée",               "scope": "global" },
+    "cooldown":  { "label": "Recharge des capacités",        "scope": "global" },
+    "fly":       { "label": "Durée de vol",                  "scope": "global" }
+  },
+  "rules": [
+    { "stat": "dmg",       "categories": ["weapon"],               "min": 0.06, "max": 0.14 },
+    { "stat": "mag",       "categories": ["weapon"],               "min": 0.10, "max": 0.25 },
+    { "stat": "reload",    "categories": ["weapon"],               "min": 0.08, "max": 0.18 },
+    { "stat": "rate",      "categories": ["weapon"],               "min": 0.04, "max": 0.10 },
+    { "stat": "abil_dmg",  "categories": ["ability"],              "min": 0.08, "max": 0.18 },
+    { "stat": "abil_cd",   "categories": ["ability"],              "min": 0.06, "max": 0.14 },
+    { "stat": "g_weapon",  "categories": ["weapon", "component"],  "min": 0.03, "max": 0.07 },
+    { "stat": "g_ability", "categories": ["ability", "component"], "min": 0.03, "max": 0.07 },
+    { "stat": "shield",    "categories": ["component", "weapon", "ability"], "min": 0.04, "max": 0.09 },
+    { "stat": "health",    "categories": ["component", "weapon", "ability"], "min": 0.04, "max": 0.09 },
+    { "stat": "regen",     "categories": ["component"],            "min": 0.06, "max": 0.14 },
+    { "stat": "melee",     "categories": ["component", "weapon"],  "min": 0.06, "max": 0.14 },
+    { "stat": "cooldown",  "categories": ["component", "ability"], "min": 0.03, "max": 0.07 },
+    { "stat": "fly",       "categories": ["component"],            "min": 0.05, "max": 0.12 }
+  ],
+  "effects": [
+    { "id": "frappe_architecte", "categories": ["weapon"],    "name": "Frappe de l'Architecte", "desc": "Chaque balle porte la mémoire de l'Arche.", "bonus": { "dmg": 0.25 } },
+    { "id": "main_ferme",        "categories": ["weapon"],    "name": "Main ferme",             "desc": "Chargeur allongé et rechargement éclair.", "bonus": { "mag": 0.35, "reload": 0.25 } },
+    { "id": "rythme_varga",      "categories": ["weapon"],    "name": "Rythme de Varga",        "desc": "L'arme crache plus vite.",               "bonus": { "rate": 0.15, "dmg": 0.08 } },
+    { "id": "echo_veilleur",     "categories": ["ability"],   "name": "Écho du Veilleur",       "desc": "La capacité frappe beaucoup plus fort.",  "bonus": { "abil_dmg": 0.35 } },
+    { "id": "boucle_porte",      "categories": ["ability"],   "name": "Boucle de la Porte",     "desc": "La capacité revient presque aussitôt.",  "bonus": { "abil_cd": 0.25, "abil_dmg": 0.1 } },
+    { "id": "sceau_horizon",     "categories": ["component"], "name": "Sceau d'Horizon",        "desc": "Le Solaris encaisse comme un Bastion.",  "bonus": { "shield": 0.15, "health": 0.10 } },
+    { "id": "chant_arche",       "categories": ["component"], "name": "Chant de l'Arche",       "desc": "Armes et capacités chantent ensemble.",  "bonus": { "g_weapon": 0.08, "g_ability": 0.08 } },
+    { "id": "souffle_solaire",   "categories": ["component"], "name": "Souffle solaire",        "desc": "Vol plus long, capacités plus rapides.", "bonus": { "fly": 0.2, "cooldown": 0.08 } }
+  ]
+}

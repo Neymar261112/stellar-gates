@@ -1,0 +1,1289 @@
+{
+ "version": 1,
+ "armorPacks": [
+  {
+   "id": "ranger.default",
+   "exosuitClass": "ranger",
+   "name": "Default",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.default.helmet",
+    "chest": "ranger.default.chest",
+    "arms": "ranger.default.arms",
+    "legs": "ranger.default.legs"
+   },
+   "tags": [
+    "default",
+    "military"
+   ],
+   "source": "default"
+  },
+  {
+   "id": "ranger.legion_of_dawn",
+   "exosuitClass": "ranger",
+   "name": "Legion of Dawn",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.legion_of_dawn.helmet",
+    "chest": "ranger.legion_of_dawn.chest",
+    "arms": "ranger.legion_of_dawn.arms",
+    "legs": "ranger.legion_of_dawn.legs"
+   },
+   "tags": [
+    "ceremonial",
+    "ancient"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.relic",
+   "exosuitClass": "ranger",
+   "name": "Relic",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.relic.helmet",
+    "chest": "ranger.relic.chest",
+    "arms": "ranger.relic.arms",
+    "legs": "ranger.relic.legs"
+   },
+   "tags": [
+    "ancient",
+    "ceremonial"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.jigsaw",
+   "exosuitClass": "ranger",
+   "name": "Jigsaw",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.jigsaw.helmet",
+    "chest": "ranger.jigsaw.chest",
+    "arms": "ranger.jigsaw.arms",
+    "legs": "ranger.jigsaw.legs"
+   },
+   "tags": [
+    "scavenged"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.guardian",
+   "exosuitClass": "ranger",
+   "name": "Guardian",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.guardian.helmet",
+    "chest": "ranger.guardian.chest",
+    "arms": "ranger.guardian.arms",
+    "legs": "ranger.guardian.legs"
+   },
+   "tags": [
+    "military",
+    "heavy"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.scout",
+   "exosuitClass": "ranger",
+   "name": "Scout",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.scout.helmet",
+    "chest": "ranger.scout.chest",
+    "arms": "ranger.scout.arms",
+    "legs": "ranger.scout.legs"
+   },
+   "tags": [
+    "military",
+    "sleek"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.lancer_of_fortune",
+   "exosuitClass": "ranger",
+   "name": "Lancer of Fortune",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.lancer_of_fortune.helmet",
+    "chest": "ranger.lancer_of_fortune.chest",
+    "arms": "ranger.lancer_of_fortune.arms",
+    "legs": "ranger.lancer_of_fortune.legs"
+   },
+   "tags": [
+    "mercenary",
+    "ceremonial"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.reaper",
+   "exosuitClass": "ranger",
+   "name": "Reaper",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.reaper.helmet",
+    "chest": "ranger.reaper.chest",
+    "arms": "ranger.reaper.arms",
+    "legs": "ranger.reaper.legs"
+   },
+   "tags": [
+    "menacing"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.chitinous",
+   "exosuitClass": "ranger",
+   "name": "Chitinous",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.chitinous.helmet",
+    "chest": "ranger.chitinous.chest",
+    "arms": "ranger.chitinous.arms",
+    "legs": "ranger.chitinous.legs"
+   },
+   "tags": [
+    "alien",
+    "organic"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.fragmenter",
+   "exosuitClass": "ranger",
+   "name": "Fragmenter",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.fragmenter.helmet",
+    "chest": "ranger.fragmenter.chest",
+    "arms": "ranger.fragmenter.arms",
+    "legs": "ranger.fragmenter.legs"
+   },
+   "tags": [
+    "scavenged",
+    "tech"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.the_judicator",
+   "exosuitClass": "ranger",
+   "name": "The Judicator",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.the_judicator.helmet",
+    "chest": "ranger.the_judicator.chest",
+    "arms": "ranger.the_judicator.arms",
+    "legs": "ranger.the_judicator.legs"
+   },
+   "tags": [
+    "ceremonial",
+    "menacing"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.pestilence",
+   "exosuitClass": "ranger",
+   "name": "Pestilence",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.pestilence.helmet",
+    "chest": "ranger.pestilence.chest",
+    "arms": "ranger.pestilence.arms",
+    "legs": "ranger.pestilence.legs"
+   },
+   "tags": [
+    "menacing",
+    "organic"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.deadbolt",
+   "exosuitClass": "ranger",
+   "name": "Deadbolt",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.deadbolt.helmet",
+    "chest": "ranger.deadbolt.chest",
+    "arms": "ranger.deadbolt.arms",
+    "legs": "ranger.deadbolt.legs"
+   },
+   "tags": [
+    "military",
+    "tech"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.howling",
+   "exosuitClass": "ranger",
+   "name": "Howling",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.howling.helmet",
+    "chest": "ranger.howling.chest",
+    "arms": "ranger.howling.arms",
+    "legs": "ranger.howling.legs"
+   },
+   "tags": [
+    "beast"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.barrage",
+   "exosuitClass": "ranger",
+   "name": "Barrage",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.barrage.helmet",
+    "chest": "ranger.barrage.chest",
+    "arms": "ranger.barrage.arms",
+    "legs": "ranger.barrage.legs"
+   },
+   "tags": [
+    "military",
+    "heavy"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.turian",
+   "exosuitClass": "ranger",
+   "name": "Turian",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.turian.helmet",
+    "chest": "ranger.turian.chest",
+    "arms": "ranger.turian.arms",
+    "legs": "ranger.turian.legs"
+   },
+   "tags": [
+    "alien"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.ice_crush",
+   "exosuitClass": "ranger",
+   "name": "Ice Crush",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.ice_crush.helmet",
+    "chest": "ranger.ice_crush.chest",
+    "arms": "ranger.ice_crush.arms",
+    "legs": "ranger.ice_crush.legs"
+   },
+   "tags": [
+    "arctic"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.the_negotiator",
+   "exosuitClass": "ranger",
+   "name": "The Negotiator",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.the_negotiator.helmet",
+    "chest": "ranger.the_negotiator.chest",
+    "arms": "ranger.the_negotiator.arms",
+    "legs": "ranger.the_negotiator.legs"
+   },
+   "tags": [
+    "mercenary",
+    "sleek"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.the_decoy",
+   "exosuitClass": "ranger",
+   "name": "The Decoy",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.the_decoy.helmet",
+    "chest": "ranger.the_decoy.chest",
+    "arms": "ranger.the_decoy.arms",
+    "legs": "ranger.the_decoy.legs"
+   },
+   "tags": [
+    "stealth",
+    "mercenary"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.grabbit_ears_helmet",
+   "exosuitClass": "ranger",
+   "name": "Grabbit Ears Helmet",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.grabbit_ears_helmet.helmet",
+    "chest": null,
+    "arms": null,
+    "legs": null
+   },
+   "tags": [
+    "novelty"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "ranger.the_negotiator_hood",
+   "exosuitClass": "ranger",
+   "name": "The Negotiator Hood",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "ranger.the_negotiator_hood.helmet",
+    "chest": null,
+    "arms": null,
+    "legs": null
+   },
+   "tags": [
+    "mercenary"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.default",
+   "exosuitClass": "colossus",
+   "name": "Default",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.default.helmet",
+    "chest": "colossus.default.chest",
+    "arms": "colossus.default.arms",
+    "legs": "colossus.default.legs"
+   },
+   "tags": [
+    "default",
+    "military"
+   ],
+   "source": "default"
+  },
+  {
+   "id": "colossus.legion_of_dawn",
+   "exosuitClass": "colossus",
+   "name": "Legion of Dawn",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.legion_of_dawn.helmet",
+    "chest": "colossus.legion_of_dawn.chest",
+    "arms": "colossus.legion_of_dawn.arms",
+    "legs": "colossus.legion_of_dawn.legs"
+   },
+   "tags": [
+    "ceremonial",
+    "ancient"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.scrapbelly",
+   "exosuitClass": "colossus",
+   "name": "Scrapbelly",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.scrapbelly.helmet",
+    "chest": "colossus.scrapbelly.chest",
+    "arms": "colossus.scrapbelly.arms",
+    "legs": "colossus.scrapbelly.legs"
+   },
+   "tags": [
+    "scavenged",
+    "heavy"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.bombardier",
+   "exosuitClass": "colossus",
+   "name": "Bombardier",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.bombardier.helmet",
+    "chest": "colossus.bombardier.chest",
+    "arms": "colossus.bombardier.arms",
+    "legs": "colossus.bombardier.legs"
+   },
+   "tags": [
+    "military",
+    "heavy"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.dreadnought",
+   "exosuitClass": "colossus",
+   "name": "Dreadnought",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.dreadnought.helmet",
+    "chest": "colossus.dreadnought.chest",
+    "arms": "colossus.dreadnought.arms",
+    "legs": "colossus.dreadnought.legs"
+   },
+   "tags": [
+    "military",
+    "heavy"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.jumper",
+   "exosuitClass": "colossus",
+   "name": "Jumper",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.jumper.helmet",
+    "chest": "colossus.jumper.chest",
+    "arms": "colossus.jumper.arms",
+    "legs": "colossus.jumper.legs"
+   },
+   "tags": [
+    "tech",
+    "sleek"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.excavator",
+   "exosuitClass": "colossus",
+   "name": "Excavator",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.excavator.helmet",
+    "chest": "colossus.excavator.chest",
+    "arms": "colossus.excavator.arms",
+    "legs": "colossus.excavator.legs"
+   },
+   "tags": [
+    "industrial",
+    "heavy"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.shatter",
+   "exosuitClass": "colossus",
+   "name": "Shatter",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.shatter.helmet",
+    "chest": "colossus.shatter.chest",
+    "arms": "colossus.shatter.arms",
+    "legs": "colossus.shatter.legs"
+   },
+   "tags": [
+    "tech"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.dark_grace",
+   "exosuitClass": "colossus",
+   "name": "Dark Grace",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.dark_grace.helmet",
+    "chest": "colossus.dark_grace.chest",
+    "arms": "colossus.dark_grace.arms",
+    "legs": "colossus.dark_grace.legs"
+   },
+   "tags": [
+    "ceremonial",
+    "menacing"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.full_bore",
+   "exosuitClass": "colossus",
+   "name": "Full-Bore",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.full_bore.helmet",
+    "chest": "colossus.full_bore.chest",
+    "arms": "colossus.full_bore.arms",
+    "legs": "colossus.full_bore.legs"
+   },
+   "tags": [
+    "industrial"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.the_blockade",
+   "exosuitClass": "colossus",
+   "name": "The Blockade",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.the_blockade.helmet",
+    "chest": "colossus.the_blockade.chest",
+    "arms": "colossus.the_blockade.arms",
+    "legs": "colossus.the_blockade.legs"
+   },
+   "tags": [
+    "military",
+    "heavy"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.stampede",
+   "exosuitClass": "colossus",
+   "name": "Stampede",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.stampede.helmet",
+    "chest": "colossus.stampede.chest",
+    "arms": "colossus.stampede.arms",
+    "legs": "colossus.stampede.legs"
+   },
+   "tags": [
+    "beast",
+    "heavy"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.krogan",
+   "exosuitClass": "colossus",
+   "name": "Krogan",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.krogan.helmet",
+    "chest": "colossus.krogan.chest",
+    "arms": "colossus.krogan.arms",
+    "legs": "colossus.krogan.legs"
+   },
+   "tags": [
+    "alien",
+    "heavy"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.frost_tusk",
+   "exosuitClass": "colossus",
+   "name": "Frost Tusk",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.frost_tusk.helmet",
+    "chest": "colossus.frost_tusk.chest",
+    "arms": "colossus.frost_tusk.arms",
+    "legs": "colossus.frost_tusk.legs"
+   },
+   "tags": [
+    "arctic",
+    "beast"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.ironclad",
+   "exosuitClass": "colossus",
+   "name": "Ironclad",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.ironclad.helmet",
+    "chest": "colossus.ironclad.chest",
+    "arms": "colossus.ironclad.arms",
+    "legs": "colossus.ironclad.legs"
+   },
+   "tags": [
+    "heavy",
+    "ancient"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.enforcer",
+   "exosuitClass": "colossus",
+   "name": "Enforcer",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.enforcer.helmet",
+    "chest": "colossus.enforcer.chest",
+    "arms": "colossus.enforcer.arms",
+    "legs": "colossus.enforcer.legs"
+   },
+   "tags": [
+    "mercenary",
+    "military"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.bulwark",
+   "exosuitClass": "colossus",
+   "name": "Bulwark",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.bulwark.helmet",
+    "chest": "colossus.bulwark.chest",
+    "arms": "colossus.bulwark.arms",
+    "legs": "colossus.bulwark.legs"
+   },
+   "tags": [
+    "heavy",
+    "military"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.grabbit_ears_helmet",
+   "exosuitClass": "colossus",
+   "name": "Grabbit Ears Helmet",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.grabbit_ears_helmet.helmet",
+    "chest": null,
+    "arms": null,
+    "legs": null
+   },
+   "tags": [
+    "novelty"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "colossus.the_enforcers_hood",
+   "exosuitClass": "colossus",
+   "name": "The Enforcer's Hood",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "colossus.the_enforcers_hood.helmet",
+    "chest": null,
+    "arms": null,
+    "legs": null
+   },
+   "tags": [
+    "mercenary"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.default",
+   "exosuitClass": "storm",
+   "name": "Default",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.default.helmet",
+    "chest": "storm.default.chest",
+    "arms": "storm.default.arms",
+    "legs": "storm.default.legs"
+   },
+   "tags": [
+    "default",
+    "mystic"
+   ],
+   "source": "default"
+  },
+  {
+   "id": "storm.legion_of_dawn",
+   "exosuitClass": "storm",
+   "name": "Legion of Dawn",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.legion_of_dawn.helmet",
+    "chest": "storm.legion_of_dawn.chest",
+    "arms": "storm.legion_of_dawn.arms",
+    "legs": "storm.legion_of_dawn.legs"
+   },
+   "tags": [
+    "ceremonial",
+    "ancient"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.seeker",
+   "exosuitClass": "storm",
+   "name": "Seeker",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.seeker.helmet",
+    "chest": "storm.seeker.chest",
+    "arms": "storm.seeker.arms",
+    "legs": "storm.seeker.legs"
+   },
+   "tags": [
+    "sleek",
+    "mystic"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.banshee",
+   "exosuitClass": "storm",
+   "name": "Banshee",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.banshee.helmet",
+    "chest": "storm.banshee.chest",
+    "arms": "storm.banshee.arms",
+    "legs": "storm.banshee.legs"
+   },
+   "tags": [
+    "menacing",
+    "mystic"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.salvager",
+   "exosuitClass": "storm",
+   "name": "Salvager",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.salvager.helmet",
+    "chest": "storm.salvager.chest",
+    "arms": "storm.salvager.arms",
+    "legs": "storm.salvager.legs"
+   },
+   "tags": [
+    "scavenged"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.exalted",
+   "exosuitClass": "storm",
+   "name": "Exalted",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.exalted.helmet",
+    "chest": "storm.exalted.chest",
+    "arms": "storm.exalted.arms",
+    "legs": "storm.exalted.legs"
+   },
+   "tags": [
+    "ceremonial",
+    "mystic"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.saurian",
+   "exosuitClass": "storm",
+   "name": "Saurian",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.saurian.helmet",
+    "chest": "storm.saurian.chest",
+    "arms": "storm.saurian.arms",
+    "legs": "storm.saurian.legs"
+   },
+   "tags": [
+    "beast",
+    "organic"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.regal",
+   "exosuitClass": "storm",
+   "name": "Regal",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.regal.helmet",
+    "chest": "storm.regal.chest",
+    "arms": "storm.regal.arms",
+    "legs": "storm.regal.legs"
+   },
+   "tags": [
+    "ceremonial",
+    "elegant"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.onyx",
+   "exosuitClass": "storm",
+   "name": "Onyx",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.onyx.helmet",
+    "chest": "storm.onyx.chest",
+    "arms": "storm.onyx.arms",
+    "legs": "storm.onyx.legs"
+   },
+   "tags": [
+    "sleek",
+    "menacing"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.shard_torrent",
+   "exosuitClass": "storm",
+   "name": "Shard Torrent",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.shard_torrent.helmet",
+    "chest": "storm.shard_torrent.chest",
+    "arms": "storm.shard_torrent.arms",
+    "legs": "storm.shard_torrent.legs"
+   },
+   "tags": [
+    "tech",
+    "crystal"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.minds_sinew",
+   "exosuitClass": "storm",
+   "name": "Mind's Sinew",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.minds_sinew.helmet",
+    "chest": "storm.minds_sinew.chest",
+    "arms": "storm.minds_sinew.arms",
+    "legs": "storm.minds_sinew.legs"
+   },
+   "tags": [
+    "organic",
+    "mystic"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.the_apprentice",
+   "exosuitClass": "storm",
+   "name": "The Apprentice",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.the_apprentice.helmet",
+    "chest": "storm.the_apprentice.chest",
+    "arms": "storm.the_apprentice.arms",
+    "legs": "storm.the_apprentice.legs"
+   },
+   "tags": [
+    "mystic"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.skyborn",
+   "exosuitClass": "storm",
+   "name": "Skyborn",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.skyborn.helmet",
+    "chest": "storm.skyborn.chest",
+    "arms": "storm.skyborn.arms",
+    "legs": "storm.skyborn.legs"
+   },
+   "tags": [
+    "sleek",
+    "ancient"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.swift_shot",
+   "exosuitClass": "storm",
+   "name": "Swift Shot",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.swift_shot.helmet",
+    "chest": "storm.swift_shot.chest",
+    "arms": "storm.swift_shot.arms",
+    "legs": "storm.swift_shot.legs"
+   },
+   "tags": [
+    "mercenary",
+    "sleek"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.asari",
+   "exosuitClass": "storm",
+   "name": "Asari",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.asari.helmet",
+    "chest": "storm.asari.chest",
+    "arms": "storm.asari.arms",
+    "legs": "storm.asari.legs"
+   },
+   "tags": [
+    "alien",
+    "elegant"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.sleet_flurry",
+   "exosuitClass": "storm",
+   "name": "Sleet Flurry",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.sleet_flurry.helmet",
+    "chest": "storm.sleet_flurry.chest",
+    "arms": "storm.sleet_flurry.arms",
+    "legs": "storm.sleet_flurry.legs"
+   },
+   "tags": [
+    "arctic"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.the_ambassador",
+   "exosuitClass": "storm",
+   "name": "The Ambassador",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.the_ambassador.helmet",
+    "chest": "storm.the_ambassador.chest",
+    "arms": "storm.the_ambassador.arms",
+    "legs": "storm.the_ambassador.legs"
+   },
+   "tags": [
+    "ceremonial",
+    "elegant"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.the_traitor",
+   "exosuitClass": "storm",
+   "name": "The Traitor",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.the_traitor.helmet",
+    "chest": "storm.the_traitor.chest",
+    "arms": "storm.the_traitor.arms",
+    "legs": "storm.the_traitor.legs"
+   },
+   "tags": [
+    "menacing",
+    "mercenary"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.grabbit_ears_helmet",
+   "exosuitClass": "storm",
+   "name": "Grabbit Ears Helmet",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.grabbit_ears_helmet.helmet",
+    "chest": null,
+    "arms": null,
+    "legs": null
+   },
+   "tags": [
+    "novelty"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "storm.the_ambassadors_hood",
+   "exosuitClass": "storm",
+   "name": "The Ambassador's Hood",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "storm.the_ambassadors_hood.helmet",
+    "chest": null,
+    "arms": null,
+    "legs": null
+   },
+   "tags": [
+    "ceremonial"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "interceptor.default",
+   "exosuitClass": "interceptor",
+   "name": "Default",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.default.helmet",
+    "chest": "interceptor.default.chest",
+    "arms": "interceptor.default.arms",
+    "legs": "interceptor.default.legs"
+   },
+   "tags": [
+    "default",
+    "sleek"
+   ],
+   "source": "default"
+  },
+  {
+   "id": "interceptor.legion_of_dawn",
+   "exosuitClass": "interceptor",
+   "name": "Legion of Dawn",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.legion_of_dawn.helmet",
+    "chest": "interceptor.legion_of_dawn.chest",
+    "arms": "interceptor.legion_of_dawn.arms",
+    "legs": "interceptor.legion_of_dawn.legs"
+   },
+   "tags": [
+    "ceremonial",
+    "ancient"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "interceptor.razor",
+   "exosuitClass": "interceptor",
+   "name": "Razor",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.razor.helmet",
+    "chest": "interceptor.razor.chest",
+    "arms": "interceptor.razor.arms",
+    "legs": "interceptor.razor.legs"
+   },
+   "tags": [
+    "sleek"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "interceptor.shrike",
+   "exosuitClass": "interceptor",
+   "name": "Shrike",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.shrike.helmet",
+    "chest": "interceptor.shrike.chest",
+    "arms": "interceptor.shrike.arms",
+    "legs": "interceptor.shrike.legs"
+   },
+   "tags": [
+    "beast",
+    "sleek"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "interceptor.shrapnel",
+   "exosuitClass": "interceptor",
+   "name": "Shrapnel",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.shrapnel.helmet",
+    "chest": "interceptor.shrapnel.chest",
+    "arms": "interceptor.shrapnel.arms",
+    "legs": "interceptor.shrapnel.legs"
+   },
+   "tags": [
+    "scavenged"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "interceptor.shearspike",
+   "exosuitClass": "interceptor",
+   "name": "Shearspike",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.shearspike.helmet",
+    "chest": "interceptor.shearspike.chest",
+    "arms": "interceptor.shearspike.arms",
+    "legs": "interceptor.shearspike.legs"
+   },
+   "tags": [
+    "menacing"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "interceptor.sweepshriek",
+   "exosuitClass": "interceptor",
+   "name": "Sweepshriek",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.sweepshriek.helmet",
+    "chest": "interceptor.sweepshriek.chest",
+    "arms": "interceptor.sweepshriek.arms",
+    "legs": "interceptor.sweepshriek.legs"
+   },
+   "tags": [
+    "beast"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "interceptor.aether",
+   "exosuitClass": "interceptor",
+   "name": "Aether",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.aether.helmet",
+    "chest": "interceptor.aether.chest",
+    "arms": "interceptor.aether.arms",
+    "legs": "interceptor.aether.legs"
+   },
+   "tags": [
+    "mystic",
+    "sleek"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "interceptor.piercer",
+   "exosuitClass": "interceptor",
+   "name": "Piercer",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.piercer.helmet",
+    "chest": "interceptor.piercer.chest",
+    "arms": "interceptor.piercer.arms",
+    "legs": "interceptor.piercer.legs"
+   },
+   "tags": [
+    "military"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "interceptor.recon",
+   "exosuitClass": "interceptor",
+   "name": "Recon",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.recon.helmet",
+    "chest": "interceptor.recon.chest",
+    "arms": "interceptor.recon.arms",
+    "legs": "interceptor.recon.legs"
+   },
+   "tags": [
+    "military",
+    "stealth"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "interceptor.the_garroter",
+   "exosuitClass": "interceptor",
+   "name": "The Garroter",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.the_garroter.helmet",
+    "chest": "interceptor.the_garroter.chest",
+    "arms": "interceptor.the_garroter.arms",
+    "legs": "interceptor.the_garroter.legs"
+   },
+   "tags": [
+    "stealth",
+    "menacing"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "interceptor.skittering",
+   "exosuitClass": "interceptor",
+   "name": "Skittering",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.skittering.helmet",
+    "chest": "interceptor.skittering.chest",
+    "arms": "interceptor.skittering.arms",
+    "legs": "interceptor.skittering.legs"
+   },
+   "tags": [
+    "alien",
+    "organic"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "interceptor.quarian",
+   "exosuitClass": "interceptor",
+   "name": "Quarian",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.quarian.helmet",
+    "chest": "interceptor.quarian.chest",
+    "arms": "interceptor.quarian.arms",
+    "legs": "interceptor.quarian.legs"
+   },
+   "tags": [
+    "alien",
+    "tech"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "interceptor.snowdrift",
+   "exosuitClass": "interceptor",
+   "name": "Snowdrift",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.snowdrift.helmet",
+    "chest": "interceptor.snowdrift.chest",
+    "arms": "interceptor.snowdrift.arms",
+    "legs": "interceptor.snowdrift.legs"
+   },
+   "tags": [
+    "arctic"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "interceptor.the_swindler",
+   "exosuitClass": "interceptor",
+   "name": "The Swindler",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.the_swindler.helmet",
+    "chest": "interceptor.the_swindler.chest",
+    "arms": "interceptor.the_swindler.arms",
+    "legs": "interceptor.the_swindler.legs"
+   },
+   "tags": [
+    "mercenary"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "interceptor.the_infiltrator",
+   "exosuitClass": "interceptor",
+   "name": "The Infiltrator",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.the_infiltrator.helmet",
+    "chest": "interceptor.the_infiltrator.chest",
+    "arms": "interceptor.the_infiltrator.arms",
+    "legs": "interceptor.the_infiltrator.legs"
+   },
+   "tags": [
+    "stealth"
+   ],
+   "source": "a_definir"
+  },
+  {
+   "id": "interceptor.grabbit_ears_helmet",
+   "exosuitClass": "interceptor",
+   "name": "Grabbit Ears Helmet",
+   "name_univers": "",
+   "slotPieces": {
+    "helmet": "interceptor.grabbit_ears_helmet.helmet",
+    "chest": null,
+    "arms": null,
+    "legs": null
+   },
+   "tags": [
+    "novelty"
+   ],
+   "source": "a_definir"
+  }
+ ]
+}
